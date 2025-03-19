@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name: VARUN J C 
+### Reg No: 212224240179
+# Exp 1: study of basic gates
 
 **AIM:** 
 
@@ -13,7 +15,7 @@ Software – Quartus prime
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
-
+:
 **AND gate**
 
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
@@ -66,14 +68,22 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+# Program 
+ ![Screenshot 2025-03-19 081035](https://github.com/user-attachments/assets/0cb49e96-3b7c-4301-a80b-e9f0de61fb09)
+
  
-**Logic symbol & Truthtable**
+# Truthtable
+![WhatsApp Image 2025-03-19 at 8 17 00 AM](https://github.com/user-attachments/assets/9e5dcd79-8a45-4a10-a940-1b4b7131f8c2)
 
-**RTL realization Output:** 
 
-**RTL**
+# RTL 
+![Screenshot 2025-03-19 081055](https://github.com/user-attachments/assets/be250771-f70b-468e-acad-f3d2fae6fec1)
+
+
+# Waveform
+![Screenshot 2025-03-19 082821](https://github.com/user-attachments/assets/c94eeb7a-e166-4c07-a94e-316f2b921c42)
+
 
 **Result:**
-
+The above program has been excecuted sucessfully.
 
